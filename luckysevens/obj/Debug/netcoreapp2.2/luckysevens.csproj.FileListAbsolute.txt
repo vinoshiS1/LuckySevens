@@ -1,0 +1,11 @@
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/bin/Debug/netcoreapp2.2/luckysevens.deps.json
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/bin/Debug/netcoreapp2.2/luckysevens.runtimeconfig.json
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/bin/Debug/netcoreapp2.2/luckysevens.runtimeconfig.dev.json
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/bin/Debug/netcoreapp2.2/luckysevens.dll
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/bin/Debug/netcoreapp2.2/luckysevens.pdb
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/obj/Debug/netcoreapp2.2/luckysevens.csprojAssemblyReference.cache
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/obj/Debug/netcoreapp2.2/luckysevens.csproj.CoreCompileInputs.cache
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/obj/Debug/netcoreapp2.2/luckysevens.AssemblyInfoInputs.cache
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/obj/Debug/netcoreapp2.2/luckysevens.AssemblyInfo.cs
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/obj/Debug/netcoreapp2.2/luckysevens.dll
+/Users/vinoshisilva/Desktop/LuckySevens/luckysevens/obj/Debug/netcoreapp2.2/luckysevens.pdb
